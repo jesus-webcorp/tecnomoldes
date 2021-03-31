@@ -79,7 +79,7 @@
 
         <div class="row gy-4 portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
-          <div class="col-lg-3 col-md-6 portfolio-item filter-app">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
               <img src="assets/img/acuarios/bomba-sifon.jpg" class="img-fluid" alt="bomba-sifon">
               <div class="portfolio-info">
@@ -93,7 +93,7 @@
             </div>
           </div>        
 
-          <div class="col-lg-3 col-md-6 portfolio-item filter-web">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
               <img src="assets/img/acuarios/Accesorios-para-peceras.jpg" class="img-fluid" alt="Accesorios-para-peceras">
               <div class="portfolio-info">
@@ -106,22 +106,8 @@
               </div>
             </div>
           </div>
-
-          <div class="col-lg-3 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="assets/img/acuarios/PECERAS.jpg" class="img-fluid" alt="PECERAS">
-              <div class="portfolio-info">
-                <h4>Moldes de plástico</h4>
-                <p>Molde de plástico para acuarios</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/acuarios/PECERAS.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
           
-          <div class="col-lg-3 col-md-6 portfolio-item filter-app">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
               <img src="assets/img/acuarios/Tortuguero.jpg" class="img-fluid" alt="Tortuguero">
               <div class="portfolio-info">

@@ -80,12 +80,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+              <img src="assets/img/robotica/helicopteros.jpg" class="img-fluid" alt="helicopteros">
               <div class="portfolio-info">
                 <h4>Moldes de plástico</h4>
                 <p>Molde de plástico para robótica</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
+                  <a href="assets/img/robotica/helicopteros.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
                 </div>
               </div>
@@ -94,12 +94,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
+              <img src="assets/img/robotica/rueda.jpg" class="img-fluid" alt="rueda">
               <div class="portfolio-info">
                 <h4>Moldes de plástico</h4>
                 <p>Molde de plástico para robótica</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
+                  <a href="assets/img/robotica/rueda.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
                 </div>
               </div>
@@ -108,12 +108,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+              <img src="assets/img/robotica/sillas.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Moldes de plástico</h4>
                 <p>Molde de plástico para robótica</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
+                  <a href="assets/img/robotica/sillas.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
                 </div>
               </div>

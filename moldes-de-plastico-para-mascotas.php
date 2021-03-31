@@ -80,12 +80,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+              <img src="assets/img/mascotas/charolas.jpg" class="img-fluid" alt="charolas">
               <div class="portfolio-info">
                 <h4>Moldes de plástico</h4>
                 <p>Molde de plástico para mascotas</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
+                  <a href="assets/img/mascotas/charolas.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
                 </div>
               </div>
@@ -94,34 +94,32 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
+              <img src="assets/img/mascotas/transportadora.jpg" class="img-fluid" alt="transportadora">
               <div class="portfolio-info">
                 <h4>Moldes de plástico</h4>
                 <p>Molde de plástico para mascotas</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
+                  <a href="assets/img/mascotas/transportadora.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
                 </div>
               </div>
             </div>
           </div>
+
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+              <img src="assets/img/mascotas/bola.jpg" class="img-fluid" alt="bola">
               <div class="portfolio-info">
                 <h4>Moldes de plástico</h4>
                 <p>Molde de plástico para mascotas</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
+                  <a href="assets/img/mascotas/bola.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title=""><i class="bi bi-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
                 </div>
               </div>
             </div>
           </div>
-
-
-
 
         </div>
 

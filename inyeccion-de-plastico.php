@@ -80,7 +80,7 @@ Tenemos una amplia experiencia y capacidad para trabajar con diferentes tipos de
 
           <div class="col-lg-6 d-flex align-items-center " data-aos="zoom-out" data-aos-delay="200">
             <div class="post-box">
-              <div class="post-img"><img src="assets/img/blog/blog-1.jpg" class="img-fluid" alt=""></div>
+              <div class="post-img"><img src="assets/img/fabricacion/MOLDES 6.jpg" class="img-fluid" alt=""></div>
             </div>
           </div>
 
